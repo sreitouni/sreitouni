@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @sreitouni
 ### 👀 I’m interested in Fintech 
-### 🌱 currently learning Software Development at Lincoln University
+### 🌱 currently studing Software Development and Business Analysis at Lincoln University
 
 <!---
 sreitouni/sreitouni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
