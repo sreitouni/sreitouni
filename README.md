@@ -30,3 +30,20 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/bootstrap.png" alt="Bootstrap" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/pa.png" alt="Python Anywhere" width="250" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/mysql.png" alt="MySQL" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/venv.png" alt="Virtual Environment" width="150" />
+    </td>
+  </tr>
+</table>
+
