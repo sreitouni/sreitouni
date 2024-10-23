@@ -36,6 +36,9 @@ You can click the Preview link to take a look at your changes.
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/bootstrap.png" alt="Bootstrap" width="150" />
     </td>
     <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/jinja2.png" alt="Jinja" width="150" />
+    </td>
+    <td>
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/pa.png" alt="Python Anywhere" width="250" />
     </td>
     <td>
