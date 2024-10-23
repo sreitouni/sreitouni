@@ -1,11 +1,25 @@
 ## 👋 Hi, I’m @sreitouni
 ### 👀 I do Fintech, Finance & Technology 
-### 🌱 Studing Applied Computing, Software Development and Business Analysis, at Lincoln University
+### 🌱 I Study Applied Computing at Lincoln University
+#### Completed Courses
+* Software Development
+* Business Analysis
+### Current Courses
+* User Experience
+### Next Courses 
+* Group Project
+* Industry Project
 
 <!---
 sreitouni/sreitouni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<br>
+My repositories are currently made not not public
+<br>
+
+### Technologies and Tools That I Use
 
 <br> 
 <table>
