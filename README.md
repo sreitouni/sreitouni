@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 My repositories are currently made not not public
 <br><br>
 
-### Technologies and Tools That I Use
+### Technologies and Tools that I Use
 
 <br> 
 <table>
