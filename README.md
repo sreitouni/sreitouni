@@ -80,8 +80,40 @@ My repositories are currently made not not public
     <td>
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/twine.png" alt="Twine" width="150" />
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/mysqlworkbench.png" alt="MySQLWorkbench" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/filezilla.png" alt="Filezilla" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/mamp.png" alt="MAMP" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/wordpress.png" alt="Wordpress" width="150" />
+    </td>
     <td>
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/excel.png" alt="Exel" width="150" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/terminal.png" alt="terminal" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/powervps.svg" alt="powervps" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/sql.png" alt="sql" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/alpha_vantage.png" alt="Wordpress" width="150" />
     </td>
   </tr>
 </table>
