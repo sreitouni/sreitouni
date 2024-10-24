@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br>
-My repositories are currently made not not public
+My repositories are currently made not public
 <br><br>
 
 ### Technologies and Tools that I Use
