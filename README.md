@@ -63,4 +63,26 @@ My repositories are currently made not not public
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/figma.png" alt="Figma" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/lucidchart.png" alt="Lucidchart" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/mindnode.svg" alt="Mindnode" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/inkscape.png" alt="Inkscape" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/twine.png" alt="Twine" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/excel.png" alt="Exel" width="150" />
+    </td>
+  </tr>
+</table>
 
