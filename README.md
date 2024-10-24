@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @sreitouni
-### 👀 I do Fintech, Finance & Technology 
-### 🌱 I Study Applied Computing at Lincoln University
+### 👀 I work in Fintech, Finance & Technology
+### I have been a Commodity Trader <br> An Equity Portfolio Analyst <br> I hold a Bachelor's Degree in Finance and Accountancy
+### 🌱 I am currently a Master's Student in Applied Computing at Lincoln University
 #### Completed Courses
 * Software Development
 * Business Analysis
