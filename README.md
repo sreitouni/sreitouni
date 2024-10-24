@@ -102,6 +102,12 @@ My repositories are currently private
     <td>
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/excel.png" alt="Exel" width="150" />
     </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/powerbi.png" alt="Power BI" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/tableau.png" alt="Tableau" width="150" />
+    </td>
   </tr>
 </table>
 <table>
