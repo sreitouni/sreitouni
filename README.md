@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m @sreitouni
 ### 👀 I work in Fintech, Finance & Technology
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been a Commodity Trader, <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an Equity Portfolio Analyst, <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and I hold a Bachelor's Degree in Finance and Accountancy.<br>
+### 📊 I specialise in financial modelling, particularly using Excel.
+### 💼 I also run a small accounting practice, offering tax return services and business advisory.
 ### 🌱 I am currently a Master's Student in Applied Computing at Lincoln University
 #### :hatched_chick: Completed Courses
 * Software Development
