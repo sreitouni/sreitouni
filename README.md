@@ -107,16 +107,19 @@ My repositories are currently private
 <table>
   <tr>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/terminal.png" alt="terminal" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/terminal.png" alt="Terminal" width="150" />
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/powervps.png" alt="powervps" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/bash.png" alt="Bash" width="150" />
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/sql.png" alt="sql" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/powervps.png" alt="PowerVPS" width="150" />
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/alpha_vantage.png" alt="Wordpress" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/sql.png" alt="SQL" width="150" />
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/alpha_vantage.png" alt="Alpha Vantage" width="150" />
     </td>
   </tr>
 </table>
