@@ -107,7 +107,7 @@ My repositories are currently made not not public
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/terminal.png" alt="terminal" width="150" />
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/powervps.svg" alt="powervps" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/powervps.png" alt="powervps" width="150" />
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/sql.png" alt="sql" width="150" />
