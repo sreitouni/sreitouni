@@ -125,7 +125,7 @@ My repositories are currently private
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/sql.png" alt="SQL" width="150" />
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/alpha_vantage.png" alt="Alpha Vantage" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/alphavantage2.png" alt="Alpha Vantage" width="150" />
     </td>
   </tr>
 </table>
