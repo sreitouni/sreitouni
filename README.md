@@ -128,10 +128,10 @@ My repositories are currently private
         <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/alphavantage2.png" alt="Alpha Vantage" width="150" />
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/apache.png" alt="Apache HTTP Server" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/apache.png" alt="Apache HTTP Server" width="300" />
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/php" alt="PHP" width="150" />
+        <img src="https://raw.githubusercontent.com/sreitouni/sreitouni/main/assets/images/php.png" alt="PHP" width="150" />
     </td>
   </tr>
 </table>
