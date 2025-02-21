@@ -2,15 +2,15 @@
 ### 👀 I work in Fintech, Finance & Technology
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been a Commodity Trader, <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an Equity Portfolio Analyst, <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and I hold a Bachelor's Degree in Finance and Accountancy.<br>
 ### 📊 I specialise in financial modelling, particularly using Excel.
-### 💼 I also run a small accounting practice, offering tax return services and business advisory.
+### 💼 I also run an accounting practice, offering tax return and financial analysis services.
 ### 🌱 I am currently a Master's Student in Applied Computing at Lincoln University
 #### :hatched_chick: Completed Courses
-* Software Development
-* Business Analysis
+* Software Development (A-_
+* Business Analysis (A)
+* UX Design (A+)
 ### :swan: Current Courses
-* User Experience
-### :hot_pepper: Next Courses 
-* Group Project
+* Studio Project (work as part of a team to complete the development lifecycle of software solutiosn for clients, using the Scrum method for agile software project management.
+### :hot_pepper: Next and final Course 
 * Industry Project
 
 <!---
