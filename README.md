@@ -5,7 +5,7 @@
 ### 💼 I also run an accounting practice, offering tax return and financial analysis services.
 ### 🌱 I am currently a Master's Student in Applied Computing at Lincoln University
 #### :hatched_chick: Completed Courses
-* Software Development (A-_
+* Software Development (A-)
 * Business Analysis (A)
 * UX Design (A+)
 ### :swan: Current Courses
