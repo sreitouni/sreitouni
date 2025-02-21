@@ -10,7 +10,7 @@
 * Business Analysis (A)
 * UX Design (A+)
 ### :swan: Current Courses
-* Studio Project (work as part of a team to complete the development lifecycle of software solutiosn for clients, using the Scrum method for agile software project management.
+* Studio Project (work as part of a team to complete the development lifecycle of software solutions for clients, using the Scrum method for agile software project management.
 ### :hot_pepper: Next and final Course 
 * Industry Project
 
